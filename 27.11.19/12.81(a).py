@@ -6,6 +6,6 @@ for i in range(10):
         print(sp[i][j],end=' ')
     print()
 for i in range(0,8):
-    a.append(sp[i][1])
+    a.append(sp[i][2])
 print(a)
 print(min(a))
